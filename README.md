@@ -1,6 +1,6 @@
 # Classification-Spaceship-Titanic
 
-This regression problem dataset is taken from Kaggle
+This classification problem dataset is taken from Kaggle
 
 https://www.kaggle.com/competitions/spaceship-titanic
 
